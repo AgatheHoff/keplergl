@@ -1,2 +1,2 @@
 # keplergl
-Carte réalisé avec kepler.gl
+Carte réalisée avec kepler.gl
